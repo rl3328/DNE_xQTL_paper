@@ -1,0 +1,37 @@
+#chr	start	end	gene_id	strand	gene_name	event_ID
+chr2	202773149	202871765	ENSG00000163596	-	ICA1L	image_Aging5; AD_Bellenguez; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021
+chr2	202874260	203014797	ENSG00000138442	-	WDR12	image_Aging5; AD_Bellenguez; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021
+chr2	202912213	202988262	ENSG00000138380	+	CARF	image_Aging5; AD_Bellenguez; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021
+chr2	203014878	203226377	ENSG00000144426	+	NBEAL1	image_Aging5; AD_Bellenguez; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021
+chr5	151029944	151093576	ENSG00000145901	-	TNIP1	image_AD2; image_Aging2; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021
+chr6	149504494	149546042	ENSG00000131013	-	PPIL4	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149566293	149591747	ENSG00000055211	+	GINM1	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149594872	149648971	ENSG00000186625	-	KATNA1	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149658152	149718104	ENSG00000131023	-	LATS1	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149724314	149749664	ENSG00000120253	-	NUP43	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149749442	149811419	ENSG00000120265	+	PCMT1	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149817936	149896010	ENSG00000285991	-	AL355312.5	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149818756	149864358	ENSG00000120256	-	LRP11	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr6	149963942	149973714	ENSG00000111981	+	ULBP1	image_Aging2; AD_Wightman_Excluding23andMe_2021
+chr7	55019016	55211627	ENSG00000146648	+	EGFR	image_AD1; AD_Bellenguez
+chr17	42950525	42980527	ENSG00000108825	-	PTGES3L-AARSD1	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45393901	45434420	ENSG00000159314	-	ARHGAP27	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45435899	45490748	ENSG00000225190	-	PLEKHM1	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45620343	45835825	ENSG00000263715	+	LINC02210-CRHR1	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45784279	45835827	ENSG00000120088	+	CRHR1	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45844880	45847066	ENSG00000185294	+	SPPL2C	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45894526	46028333	ENSG00000186868	+	MAPT	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	45999249	45999693	ENSG00000256762	+	STH	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46029915	46225388	ENSG00000120071	-	KANSL1	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46274783	46361796	ENSG00000228696	-	ARL17B	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46292732	46337793	ENSG00000176681	+	LRRC37A	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46511510	46555649	ENSG00000238083	+	LRRC37A2	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46516701	46579690	ENSG00000185829	-	ARL17A	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46590668	46757463	ENSG00000073969	+	NSF	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr17	46923132	47049931	ENSG00000262633	+	AC005670.2	image_AD1; image_Aging5; AD_Wightman_Full_2021; AD_Wightman_Excluding23andMe_2021; AD_Wightman_ExcludingUKBand23andME_2021; PD
+chr22	38483437	38507659	ENSG00000100201	-	DDX17	image_Aging3; AD_Wightman_Full_2021; Telomere_pc1
+chr22	38578119	38656628	ENSG00000184949	-	FAM227A	image_Aging3; AD_Wightman_Full_2021; Telomere_pc1
+chr22	38656639	38673853	ENSG00000100211	+	CBY1	image_Aging3; AD_Wightman_Full_2021; Telomere_pc1
+chr22	38681956	38685420	ENSG00000100216	+	TOMM22	image_Aging3; AD_Wightman_Full_2021; Telomere_pc1
+chr22	38685542	38701555	ENSG00000100221	-	JOSD1	image_Aging3; AD_Wightman_Full_2021; Telomere_pc1
+chr22	38734724	38794142	ENSG00000100242	-	SUN2	image_Aging3; AD_Wightman_Full_2021; Telomere_pc1

@@ -1,0 +1,1 @@
+sos run xqtl-protocol/pipeline/rss_analysis.ipynb univariate_rss --ld-meta-data resource/ADSP_R4_EUR_LD/ld_meta_file.tsv --gwas-meta-data interactive_analysis/rl3328/image_QTL/image_GWAS_meta_file_batch.tsv --qc-method "QC_METHOD" --impute --finemapping-method "FINEMAP" --cwd ../output --skip_analysis_pip_cutoff 0 -s build --diagnostics --region_name fill_in_region

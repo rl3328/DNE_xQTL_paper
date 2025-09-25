@@ -1,0 +1,4 @@
+# Content of bed_annotations.bed.file.index or bed_annotations.bed.file_path.txt
+/home/ubuntu/project/aging1_hg19.bed
+/home/ubuntu/project/ms_hg19.bed
+/home/ubuntu/project/AD1_hg19.bed
